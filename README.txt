@@ -1,2 +1,2 @@
 # learnGit
-Prise en ami de git
+Tutoriel openClassrooms de Prise en main de git 
